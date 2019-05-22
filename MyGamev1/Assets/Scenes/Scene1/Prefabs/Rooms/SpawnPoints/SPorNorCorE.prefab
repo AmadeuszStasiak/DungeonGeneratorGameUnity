@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5741266176335147041
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5741266176335147042}
+  - component: {fileID: 5741266176335147043}
+  m_Layer: 8
+  m_Name: SPorNorCorE
+  m_TagString: Untagged
+  m_Icon: {fileID: 1206586993520771344, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 4294967295
+  m_IsActive: 1
+--- !u!4 &5741266176335147042
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5741266176335147041}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1.5, y: -1.5, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5741266176335147043
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5741266176335147041}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b2088c730058234d9e9d2d2965e09f8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objects:
+  - {fileID: 8566808034572823705, guid: b963d09b356c7854da650ef048d839aa, type: 3}
+  - {fileID: 95150202330685462, guid: 6f4f9c4a0939e0d4d96900753ca456df, type: 3}
+  - {fileID: 3189576512492531755, guid: 276b936e274c34844a4086e99bd5ad35, type: 3}
+  - {fileID: 5865927706753817187, guid: 7882e88cf39d12b43bfed82f3814741d, type: 3}
+  - {fileID: 7146944093710438632, guid: 95c492db37fa77240879473864183593, type: 3}
+  - {fileID: 4412745393517275533, guid: 28ea0d49c1e135240b904d9dfac8c363, type: 3}
+  - {fileID: 376247677500007123, guid: f4f5283b34dacbd468a0b8269defbedd, type: 3}
